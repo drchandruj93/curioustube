@@ -9,13 +9,13 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "Curioustube"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Where curiosity flows"
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: ""
+baseurl: "https://curioustube.com"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: "https://scriptor-jekyll.netlify.com"
